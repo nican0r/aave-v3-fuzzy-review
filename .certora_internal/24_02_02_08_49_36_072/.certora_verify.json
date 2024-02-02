@@ -1,8 +1,0 @@
-{
-    "importFilesToOrigRelpaths": {},
-    "primary_contract": "PoolHarness",
-    "specfile": "Certora/specs/priceOracleCounter.spec",
-    "specfileOrigRelpath": "Certora/specs/priceOracleCounter.spec",
-    "specfilesToImportDecls": {},
-    "type": "spec"
-}

@@ -18,3 +18,5 @@ coverage
 .coverage_cache
 .coverage_contracts
 coverage.json
+
+.certora_internal
